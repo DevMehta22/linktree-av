@@ -13,7 +13,7 @@ const links = [
 
 const eventLinks = [
   { name: 'Bahikhata', url: '#' },
-  { name: 'Introvia', url: '#' },
+  { name: 'Introvia', url: 'https://forms.gle/HsgsueCN7HU3nkvz9' },
   { name: 'Interview Registrations', url: '#' },
 ];
 
