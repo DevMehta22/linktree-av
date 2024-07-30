@@ -12,9 +12,9 @@ const links = [
 ];
 
 const eventLinks = [
-  { name: 'Bahikhata', url: '#' },
+  { name: 'Bahi khata', url: 'https://docs.google.com/forms/d/e/1FAIpQLSffG26pwBuTOnJVEzbNM1uCrdEU2xV3bjuaEAK_cmCi9PF_xA/viewform' },
   { name: 'Introvia', url: 'https://forms.gle/HsgsueCN7HU3nkvz9' },
-  { name: 'Interview Registrations', url: '#' },
+  { name: 'Interview Registrations', url: 'https://forms.gle/ARxmnJ87Uadj7WEE6' },
 ];
 
 function App() {
