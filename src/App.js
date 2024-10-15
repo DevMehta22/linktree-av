@@ -12,9 +12,9 @@ const links = [
 ];
 
 const eventLinks = [
-  { name: 'Bahi khata', url: 'https://docs.google.com/forms/d/e/1FAIpQLSffG26pwBuTOnJVEzbNM1uCrdEU2xV3bjuaEAK_cmCi9PF_xA/viewform' },
-  { name: 'Introvia', url: 'https://forms.gle/HsgsueCN7HU3nkvz9' },
-  { name: 'Interview Registrations', url: 'https://forms.gle/ARxmnJ87Uadj7WEE6' },
+  { name: 'Get! Set! Supply!!!', url: 'https://forms.gle/YpQ8HWnnQrnLs3sK9' },
+  { name: 'Change my mind', url: 'https://forms.gle/DXsAhLxUHWvAA7Bp6' },
+  { name: 'Global-O-Poly', url: 'https://forms.gle/31M3anczXDu4znA39' },
 ];
 
 function App() {
